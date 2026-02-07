@@ -1,0 +1,9 @@
+{
+  "name": "OfficeHub Pro - Sistema de Gestão de Escritório",
+  "description": "Sistema completo para gestão de escritórios com preenchimento via IA, controle de clientes (PF/PJ), agenda, reuniões, atendimentos e perfis de acesso.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
