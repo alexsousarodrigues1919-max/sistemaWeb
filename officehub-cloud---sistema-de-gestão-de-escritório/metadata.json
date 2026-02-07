@@ -1,0 +1,10 @@
+
+{
+  "name": "OfficeHub Cloud - Sistema de Gestão de Escritório",
+  "description": "Sistema completo para gestão de escritórios com servidor virtual de banco de dados e sincronização cloud.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
